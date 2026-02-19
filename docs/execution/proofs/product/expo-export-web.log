@@ -1,0 +1,129 @@
+2026-02-19T17:07:53.352Z expo:telemetry Switching strategy from detached to instant
+2026-02-19T17:07:53.481Z expo:telemetry Recording 1 event(s)
+2026-02-19T17:07:54.163Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env does not exist, skipping this env file
+2026-02-19T17:07:54.163Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.production does not exist, skipping this env file
+2026-02-19T17:07:54.163Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.local does not exist, skipping this env file
+2026-02-19T17:07:54.164Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.production.local does not exist, skipping this env file
+2026-02-19T17:07:54.260Z expo:doctor:webSupport Ensuring web support is setup
+2026-02-19T17:07:54.280Z expo:doctor:dependencies:getMissingPackages Required package "react-dom" found (no version constraint specified).
+2026-02-19T17:07:54.281Z expo:doctor:dependencies:getMissingPackages Required package "react-native-web" found (no version constraint specified).
+2026-02-19T17:07:54.290Z expo:start:server:devServer Stopping dev server (bundler: metro)
+2026-02-19T17:07:54.290Z expo:start:server:devServer Stopped dev server (bundler: metro)
+2026-02-19T17:07:54.299Z expo:start:server:metro:router Using app as the root directory for Expo Router.
+
+Expo Metro config:
+- Version: 54.0.14
+- Extensions: ts, tsx, mjs, js, jsx, json, cjs, scss, sass, css
+- React Native: C:\Users\Harib\CascadeProjects\congemaxv3\node_modules\react-native
+- Watch Folders: 
+- Node Module Paths: 
+- Sass: null
+- Reanimated: null
+- Worklets: null
+- Babel Runtime: null
+
+2026-02-19T17:07:55.817Z expo:metro:withMetroResolvers Appending 8 custom resolvers to Metro config. (has custom resolver: false)
+2026-02-19T17:07:55.874Z expo:start:server:urlCreator URL: http://127.0.0.1:8081
+Starting Metro Bundler
+2026-02-19T17:07:56.156Z expo:metro:options Disabling lazy bundling for export build
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Web .\index.ts ░░░░░░░░░░░░░░░░  1.0% (1/3)
+| 2026-02-19T17:07:59.471Z expo:babel:exports Found assignment to module.exports or exports at 4
+| 2026-02-19T17:07:59.845Z expo:babel:exports Found assignment to module.exports or exports at 319
+Web .\index.ts ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 71.6% (22/26)
+| 2026-02-19T17:08:02.760Z expo:babel:exports Found assignment to module.exports or exports at 4
+| 2026-02-19T17:08:03.416Z expo:babel:exports Found assignment to module.exports or exports at 32
+| 2026-02-19T17:08:03.710Z expo:babel:exports Found assignment to module.exports or exports at 8
+| 2026-02-19T17:08:03.751Z expo:babel:exports Found assignment to module.exports or exports at 14
+| 2026-02-19T17:08:04.006Z expo:babel:exports Found assignment to module.exports or exports at 52
+2026-02-19T17:08:04.351Z expo:start:server:metro:multi-platform Redirecting module "C:\Users\Harib\CascadeProjects\congemaxv3\node_modules\react-native-web\dist\exports\AppRegistry\AppContainer.js" to shim
+| 2026-02-19T17:08:04.782Z expo:babel:exports Found assignment to module.exports or exports at 12
+| 2026-02-19T17:08:05.275Z expo:babel:exports Found assignment to module.exports or exports at 10
+| 2026-02-19T17:08:05.653Z expo:babel:exports Found assignment to module.exports or exports at 28
+Web .\index.ts ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 78.3% ( 94/123)
+| 2026-02-19T17:08:07.180Z expo:babel:exports Found assignment to module.exports or exports at 49
+| 2026-02-19T17:08:07.200Z expo:babel:exports Found assignment to module.exports or exports at 35
+| 2026-02-19T17:08:07.309Z expo:babel:exports Found assignment to module.exports or exports at 15
+| 2026-02-19T17:08:07.342Z expo:babel:exports Found assignment to module.exports or exports at 1
+| 2026-02-19T17:08:07.388Z expo:babel:exports Found assignment to module.exports or exports at 48
+| 2026-02-19T17:08:07.442Z expo:babel:exports Found assignment to module.exports or exports at 48
+| 2026-02-19T17:08:07.760Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.492Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.507Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.518Z expo:babel:exports Found assignment to module.exports or exports at 461
+| 2026-02-19T17:08:08.725Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.733Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.770Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.812Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.823Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.864Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.909Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.932Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:08.957Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:09.097Z expo:babel:exports Found assignment to module.exports or exports at 6
+| 2026-02-19T17:08:09.128Z expo:babel:exports Found assignment to module.exports or exports at 6
+Web .\index.ts ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 96.5% (177/182)
+| 2026-02-19T17:08:10.485Z expo:babel:exports Found assignment to module.exports or exports at 15304
+Web .\index.ts ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 98.9% (181/182)
+| 2026-02-19T17:08:13.741Z expo:babel:exports Found assignment to module.exports or exports at 4
+| 2026-02-19T17:08:13.744Z expo:babel:exports Found assignment to module.exports or exports at 35
+| 2026-02-19T17:08:13.770Z expo:babel:exports Found assignment to module.exports or exports at 60
+| 2026-02-19T17:08:13.786Z expo:babel:exports Found assignment to module.exports or exports at 65
+2026-02-19T17:08:14.270Z expo:metro:config "@expo/metro-runtime" not found, this may cause issues
+2026-02-19T17:08:14.271Z expo:metro-config:serializer:env-var Skipping environment variable inlining in production environment in favor of babel-preset-expo inlining with source maps.
+2026-02-19T17:08:14.281Z expo:metro:config "@expo/metro-runtime" not found, this may cause issues
+2026-02-19T17:08:14.294Z expo:metro:config "@expo/metro-runtime" not found, this may cause issues
+Web Bundled 16928ms index.ts (186 modules)
+2026-02-19T17:08:14.301Z expo:customize:templates @expo/webpack-config template for "index.html" not found, falling back on @expo/cli
+2026-02-19T17:08:14.302Z expo:customize:templates Local @expo/cli template for "index.html" not found, falling back on template relative to @expo/cli: C:\Users\Harib\CascadeProjects\congemaxv3\node_modules\expo\node_modules\@expo\cli\static\template\index.html
+2026-02-19T17:08:14.726Z expo:favicon Storing asset for persisting: dist\favicon.ico
+2026-02-19T17:08:14.727Z expo:start:platforms:android:adbServer Stopping ADB server
+2026-02-19T17:08:14.727Z expo:start:platforms:android:adbServer ADB server is not running
+2026-02-19T17:08:14.728Z expo:start:server:devServer Stopping dev server (bundler: metro)
+2026-02-19T17:08:14.728Z expo:start:server:devServer Stopped dev server (bundler: metro)
+
+› web bundles (1):
+_expo/static/js/web/index-00467da3d7368237bec480d208b0e835.js (336 kB)
+
+› Files (3):
+favicon.ico (14.5 kB)
+index.html (1.22 kB)
+metadata.json (49 B)
+
+2026-02-19T17:08:14.835Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'CloseReq', 'Timeout', 'Timeout' ]
+Exported: dist
+2026-02-19T17:08:14.939Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.048Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.152Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.264Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.367Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.479Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.595Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.697Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.812Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:15.916Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.034Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.145Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.257Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.359Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.464Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.564Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.675Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.781Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.883Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:16.999Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.113Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.224Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.332Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.447Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.547Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.648Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.763Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.877Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:17.983Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:18.096Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:18.198Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:18.310Z expo:utils:exit process is trying to exit, but is stuck on unexpected active resources: [ 'Timeout', 'Timeout' ]
+2026-02-19T17:08:18.413Z expo:utils:exit no active resources detected, process can safely exit
+2026-02-19T17:08:18.413Z expo:telemetry Switching strategy from instant to detached
+2026-02-19T17:08:18.414Z expo:telemetry:client:detached No records to flush, skipping...

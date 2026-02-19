@@ -1,0 +1,29 @@
+2026-02-19T17:07:34.601Z expo:utils:variadic Parsed arguments (variadic: [ 'react-dom', 'react-native-web' ], flags: {}, extra: [])
+2026-02-19T17:07:34.748Z expo:telemetry Recording 1 event(s)
+2026-02-19T17:07:34.762Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env does not exist, skipping this env file
+2026-02-19T17:07:34.762Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development does not exist, skipping this env file
+2026-02-19T17:07:34.762Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.local does not exist, skipping this env file
+2026-02-19T17:07:34.762Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development.local does not exist, skipping this env file
+2026-02-19T17:07:35.209Z expo:doctor:dependencies:bundledNativeModules Fetching bundled native modules from the server...
+› Installing 2 SDK 54.0.0 compatible native modules using npm
+> npm install
+
+added 19 packages, and audited 805 packages in 9s
+
+76 packages are looking for funding
+  run `npm fund` for details
+
+34 high severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+2026-02-19T17:07:45.163Z expo:install:config-plugins Checking config plugins...
+2026-02-19T17:07:45.165Z expo:install:config-plugins Existing plugins: expo-sqlite
+2026-02-19T17:07:45.173Z expo:install:config-plugins Package "react-dom" has plugin: false
+2026-02-19T17:07:45.802Z expo:install:config-plugins Package "react-native-web" has plugin: false
+2026-02-19T17:07:45.823Z expo:telemetry:client:detached Detached flush started
