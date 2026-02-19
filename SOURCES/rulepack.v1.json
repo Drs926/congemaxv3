@@ -1,0 +1,56 @@
+{
+  "rulePackId": "idcc-1801-v1",
+  "conventionName": "Convention collective nationale des societes d'assistance",
+  "idcc": "1801",
+  "versionTag": "v1.0.0",
+  "effectiveFrom": "1994-04-13",
+  "effectiveTo": null,
+  "leaveAcquisition": {
+    "periodReferenceStartRule": "periode_reference_complete (source art. 63)",
+    "periodReferenceEndRule": "periode_reference_complete (source art. 63)",
+    "baseDaysPerYear": 25,
+    "accrualFrequency": "non_defini_dans_source_v1",
+    "prorationMethod": "prorata_temps_partiel_selon_duree_travail (source art. 55-b)",
+    "partTimeHandling": "prorata_temps_partiel_selon_duree_travail (source art. 55-b)"
+  },
+  "workingDaysMode": {
+    "defaultMode": "ouvres",
+    "saturdayCounted": false,
+    "sundayCounted": false
+  },
+  "publicHolidayPolicy": {
+    "deductIfOnWorkedDay": false,
+    "shiftIfOnWeekend": false,
+    "customCompanyOverrideAllowed": false
+  },
+  "carryOverPolicy": {
+    "allowed": false,
+    "maxDays": 0,
+    "deadlineRule": "non_defini_dans_source_v1"
+  },
+  "seniorityBonusPolicy": {
+    "enabled": true,
+    "tiers": [
+      {
+        "years": 1,
+        "extraDays": 1
+      }
+    ]
+  },
+  "fractionnementPolicy": {
+    "enabled": false,
+    "conditions": "non_defini_dans_source_v1",
+    "extraDays": 0
+  },
+  "rttPolicy": {
+    "enabled": false,
+    "calculationMode": "non_defini_dans_source_v1",
+    "annualAmount": 0,
+    "prorationMethod": "non_defini_dans_source_v1"
+  },
+  "roundingPolicy": {
+    "unit": "day",
+    "mode": "nearest"
+  },
+  "disabledFeatures": []
+}
