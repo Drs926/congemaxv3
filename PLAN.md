@@ -35,7 +35,7 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 - [x] 3. Formalisation des règles en RulePack versionné. (artefacts: `SOURCES/rulepack.v1.json`, `SOURCES/rulepack.v1.sources.md`)
 - [x] 4. Validation humaine du RulePack. (preuve: `SOURCES/rulepack.v1.validation.md`)
 - [x] 5. Gel du RulePack. (preuve: `SOURCES/rulepack.v1.freeze.json`)
-- [ ] 6. Rédaction des tests du moteur (incluant cas limites obligatoires).
+- [x] 6. Rédaction des tests du moteur (incluant cas limites obligatoires). (artefact: `__tests__/ruleengine.contract.test.ts`)
 - [ ] 7. Implémentation du RuleEngine (après gel).
 - [ ] 8. Implémentation des UseCases Application.
 - [ ] 9. Implémentation UI des 9 écrans contractuels.
