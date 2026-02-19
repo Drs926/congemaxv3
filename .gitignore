@@ -46,3 +46,6 @@ yarn-error.*
 # local generated artifacts
 coverage/
 stitch_exports/
+
+# local eas credentials
+credentials.json
