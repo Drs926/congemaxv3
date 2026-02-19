@@ -1,4 +1,4 @@
-import { ScreenTemplate } from './ScreenTemplate';
+import { ScreenTemplate } from '../components/ScreenTemplate';
 
 export function Resultats() {
   return (
@@ -10,3 +10,4 @@ export function Resultats() {
     />
   );
 }
+

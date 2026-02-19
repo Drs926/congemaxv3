@@ -80,4 +80,13 @@ export interface RuleEngineOutput {
   detailedBreakdown: unknown;
 }
 
+export interface LeaveSimulation {
+  id: string;
+  startDate: string;
+  endDate: string;
+  rulePackSnapshot: RulePack;
+  inputSnapshot: RuleEngineInput;
+  outputSnapshot: RuleEngineOutput;
+}
+
 export type RuleEngine = (input: RuleEngineInput) => RuleEngineOutput;

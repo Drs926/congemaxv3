@@ -24,7 +24,7 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 6. Rédaction des tests du moteur (incluant cas limites obligatoires).
 7. Implémentation du RuleEngine (après gel).
 8. Implémentation des UseCases Application.
-9. Implémentation UI des 9 écrans contractuels.
+9. Implémentation UI des 8 écrans contractuels V3.
 10. Mise en place de la persistance SQLite.
 11. Implémentation de l’optimisation annuelle (Premium).
 12. Exécution du Proof Pack et vérification conformité finale.
@@ -38,10 +38,10 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 - [x] 6. Rédaction des tests du moteur (incluant cas limites obligatoires). (artefact: `__tests__/ruleengine.contract.test.ts`)
 - [x] 7. Implémentation du RuleEngine (après gel). (artefacts: `src/domain/ruleEngine.ts`, `src/domain/types.ts`)
 - [x] 8. Implémentation des UseCases Application. (artefact: `src/application/simulateLeaveUseCase.ts`)
-- [ ] 9. Implémentation UI des 9 écrans contractuels.
-- [ ] 10. Mise en place de la persistance SQLite.
-- [ ] 11. Implémentation de l’optimisation annuelle (Premium).
-- [ ] 12. Exécution du Proof Pack et vérification conformité finale.
+- [x] 9. Implémentation UI des 8 écrans contractuels V3. (artefacts: `src/ui/screens/*.tsx`, `App.tsx`)
+- [x] 10. Mise en place de la persistance SQLite. (artefacts: `src/infrastructure/sqlite/database.ts`, `src/infrastructure/sqlite/leaveSimulationRepository.ts`, `src/application/persistSimulationUseCase.ts`)
+- [x] 11. Implémentation de l’optimisation annuelle (Premium). (artefacts: `src/application/optimizeAnnualPremiumUseCase.ts`, `__tests__/optimizeAnnualPremiumUseCase.test.ts`)
+- [x] 12. Exécution du Proof Pack et vérification conformité finale. (preuves: `git status`, `git diff --stat`, `jest --runInBand`, `jest --coverage --runInBand`, `tsc --noEmit`, `expo install --check`; dérogation validée le 2026-02-19: script lint absent et `expo-doctor` incohérent malgré dépendances à jour)
 
 **Dépendances**
 - 2 dépend de 1.
@@ -65,7 +65,7 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 - 6 : Tests écrits incluant tous les cas limites contractuels.
 - 7 : RuleEngine déterministe et conforme ordre hiérarchique.
 - 8 : UseCases isolant Domain de l’UI.
-- 9 : 9 écrans contractuels, aucun écran en plus.
+- 9 : 8 écrans contractuels V3, aucun écran en plus.
 - 10 : SQLite local opérationnel.
 - 11 : Algorithme d’optimisation conforme (parcours glissant année civile, simulation automatique périodes, calcul rendement, tri décroissant).
 - 12 : Proof Pack exécuté et conforme.
