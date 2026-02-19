@@ -31,7 +31,7 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 
 **Suivi d'exécution**
 - [x] 1. Réception du PDF de convention. (source: `SOURCES/convention des assistances.pdf`)
-- [ ] 2. Extraction structurée des règles depuis le PDF.
+- [x] 2. Extraction structurée des règles depuis le PDF. (artefacts: `SOURCES/rules_extraction.v1.md`, `SOURCES/rules_extraction.v1.json`)
 - [ ] 3. Formalisation des règles en RulePack versionné.
 - [ ] 4. Validation humaine du RulePack.
 - [ ] 5. Gel du RulePack.

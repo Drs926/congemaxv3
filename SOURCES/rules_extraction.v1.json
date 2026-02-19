@@ -1,0 +1,1029 @@
+{
+  "source_pdf": "SOURCES/convention des assistances.pdf",
+  "source_text": "SOURCES/convention des assistances.extracted.txt",
+  "normalized_keywords": [
+    "conge paye",
+    "rtt",
+    "jour ferie",
+    "ouvrable",
+    "ouvre",
+    "samedi",
+    "dimanche",
+    "arrondi",
+    "fractionnement",
+    "anciennete",
+    "periode de reference",
+    "jour chome",
+    "forfait annuel en jours"
+  ],
+  "matches": [
+    {
+      "line": 232,
+      "text": "L'exercice d'un mandat syndical met en jeu des compétences supplémentaires qui couvrent des domaines immédiatement",
+      "context": [
+        {
+          "line": 231,
+          "text": "En vigueur étendu"
+        },
+        {
+          "line": 232,
+          "text": "L'exercice d'un mandat syndical met en jeu des compétences supplémentaires qui couvrent des domaines immédiatement"
+        },
+        {
+          "line": 233,
+          "text": "valorisables (ex. : prévention de certains risques) mais également des aptitudes qui ne sont pas toujours immédiatement mises"
+        }
+      ]
+    },
+    {
+      "line": 335,
+      "text": "désignation, d'une formation appropriée à raison de 4 jours ouvrés ; le ou les jours non utilisés à l'issue du premier mandat",
+      "context": [
+        {
+          "line": 334,
+          "text": "Dans ceux de moins de 300 salariés, chaque représentant du personnel au CHSCT bénéficie, à l'occasion de sa première"
+        },
+        {
+          "line": 335,
+          "text": "désignation, d'une formation appropriée à raison de 4 jours ouvrés ; le ou les jours non utilisés à l'issue du premier mandat"
+        },
+        {
+          "line": 336,
+          "text": "peuvent être reportés jusqu'à l'expiration du mandat suivant à condition qu'il s'agisse de mandats qui se succèdent de façon"
+        }
+      ]
+    },
+    {
+      "line": 386,
+      "text": "- les modalités dans lesquelles s'exercera l'obligation de travail de nuit, du dimanche et des jours fériés, conformément aux",
+      "context": [
+        {
+          "line": 385,
+          "text": "En vigueur étendu"
+        },
+        {
+          "line": 386,
+          "text": "- les modalités dans lesquelles s'exercera l'obligation de travail de nuit, du dimanche et des jours fériés, conformément aux"
+        },
+        {
+          "line": 387,
+          "text": "dispositions de l'article 57 du chapitre \" Temps de travail \"."
+        }
+      ]
+    },
+    {
+      "line": 617,
+      "text": "relevant pas de l'état de santé et la justifier dans les 3 jours ouvrables.",
+      "context": [
+        {
+          "line": 616,
+          "text": "Sauf en cas de force majeure, le salarié doit aviser l'employeur immédiatement, et par tous moyens, de toute absence ne"
+        },
+        {
+          "line": 617,
+          "text": "relevant pas de l'état de santé et la justifier dans les 3 jours ouvrables."
+        },
+        {
+          "line": 618,
+          "text": "Suspension du contrat de travail"
+        }
+      ]
+    },
+    {
+      "line": 630,
+      "text": "immédiatement et par tous moyens, et lui faire parvenir un certificat médical dans les 3 jours ouvrables.",
+      "context": [
+        {
+          "line": 629,
+          "text": "En cas d'absence pour maladie ou accident, le salarié doit, sauf en cas de force majeure, en informer l'employeur"
+        },
+        {
+          "line": 630,
+          "text": "immédiatement et par tous moyens, et lui faire parvenir un certificat médical dans les 3 jours ouvrables."
+        },
+        {
+          "line": 631,
+          "text": "b) Contre-visite médicale"
+        }
+      ]
+    },
+    {
+      "line": 747,
+      "text": "– paternité : 11 jours consécutifs pour un enfant sans condition d'ancienneté, maintien de la rémunération et assimilation à un",
+      "context": [
+        {
+          "line": 746,
+          "text": "Paternité"
+        },
+        {
+          "line": 747,
+          "text": "– paternité : 11 jours consécutifs pour un enfant sans condition d'ancienneté, maintien de la rémunération et assimilation à un"
+        },
+        {
+          "line": 748,
+          "text": "temps de travail ;"
+        }
+      ]
+    },
+    {
+      "line": 750,
+      "text": "– 18 jours consécutifs si naissances multiples sans aucune condition ancienneté, maintien de la rémunération et assimilation à",
+      "context": [
+        {
+          "line": 749,
+          "text": "– 4 jours supplémentaires pour un enfant après 3 mois de présence eﬀective ;"
+        },
+        {
+          "line": 750,
+          "text": "– 18 jours consécutifs si naissances multiples sans aucune condition ancienneté, maintien de la rémunération et assimilation à"
+        },
+        {
+          "line": 751,
+          "text": "un temps de travail ;"
+        }
+      ]
+    },
+    {
+      "line": 769,
+      "text": "Le congé d'adoption est assimilé à un temps de travail eﬀectif pour l'appréciation du droit à l'ancienneté et du droit à congé",
+      "context": [
+        {
+          "line": 768,
+          "text": "La durée du congé d'adoption ne peut être fractionnée qu'en deux périodes dont la plus courte est au moins égale à 11 jours."
+        },
+        {
+          "line": 769,
+          "text": "Le congé d'adoption est assimilé à un temps de travail eﬀectif pour l'appréciation du droit à l'ancienneté et du droit à congé"
+        },
+        {
+          "line": 770,
+          "text": "payé."
+        }
+      ]
+    },
+    {
+      "line": 815,
+      "text": "– paternité : 11 jours consécutifs pour un enfant sans condition d'ancienneté, maintien de la rémunération et assimilation à un",
+      "context": [
+        {
+          "line": 814,
+          "text": "Paternité"
+        },
+        {
+          "line": 815,
+          "text": "– paternité : 11 jours consécutifs pour un enfant sans condition d'ancienneté, maintien de la rémunération et assimilation à un"
+        },
+        {
+          "line": 816,
+          "text": "temps de travail ;"
+        }
+      ]
+    },
+    {
+      "line": 818,
+      "text": "– 18 jours consécutifs si naissances multiples sans aucune condition ancienneté, maintien de la rémunération et assimilation à",
+      "context": [
+        {
+          "line": 817,
+          "text": "– 4 jours supplémentaires pour un enfant après 3 mois de présence eﬀective ;"
+        },
+        {
+          "line": 818,
+          "text": "– 18 jours consécutifs si naissances multiples sans aucune condition ancienneté, maintien de la rémunération et assimilation à"
+        },
+        {
+          "line": 819,
+          "text": "un temps de travail ;"
+        }
+      ]
+    },
+    {
+      "line": 835,
+      "text": "Le congé d'adoption est assimilé à un temps de travail eﬀectif pour l'appréciation du droit à l'ancienneté et du droit à congé",
+      "context": [
+        {
+          "line": 834,
+          "text": "La durée du congé d'adoption ne peut être fractionnée qu'en deux périodes dont la plus courte est au moins égale à 11 jours."
+        },
+        {
+          "line": 835,
+          "text": "Le congé d'adoption est assimilé à un temps de travail eﬀectif pour l'appréciation du droit à l'ancienneté et du droit à congé"
+        },
+        {
+          "line": 836,
+          "text": "payé."
+        }
+      ]
+    },
+    {
+      "line": 880,
+      "text": "condition ancienneté.",
+      "context": [
+        {
+          "line": 879,
+          "text": "du salarié 1 semaine calendaire sans aucune"
+        },
+        {
+          "line": 880,
+          "text": "condition ancienneté."
+        },
+        {
+          "line": 881,
+          "text": "de l'enfant du salarié ou de l'enfant du conjoint 1 jour sans aucune condition"
+        }
+      ]
+    },
+    {
+      "line": 882,
+      "text": "ancienneté.",
+      "context": [
+        {
+          "line": 881,
+          "text": "de l'enfant du salarié ou de l'enfant du conjoint 1 jour sans aucune condition"
+        },
+        {
+          "line": 882,
+          "text": "ancienneté."
+        },
+        {
+          "line": 883,
+          "text": "d'un frère ou d'une sœur 1 jour après 12 mois de présence"
+        }
+      ]
+    },
+    {
+      "line": 890,
+      "text": "ancienneté",
+      "context": [
+        {
+          "line": 889,
+          "text": "3 jours sans aucune condition"
+        },
+        {
+          "line": 890,
+          "text": "ancienneté"
+        },
+        {
+          "line": 891,
+          "text": "Décès"
+        }
+      ]
+    },
+    {
+      "line": 893,
+      "text": "condition ancienneté",
+      "context": [
+        {
+          "line": 892,
+          "text": "du conjoint ou partenaire d'un Pacs du salarié 1 semaine calendaire sans aucune"
+        },
+        {
+          "line": 893,
+          "text": "condition ancienneté"
+        },
+        {
+          "line": 894,
+          "text": "d'un enfant du salarié ou de l'enfant du conjoint 1 semaine calendaire sans aucune"
+        }
+      ]
+    },
+    {
+      "line": 895,
+      "text": "condition ancienneté",
+      "context": [
+        {
+          "line": 894,
+          "text": "d'un enfant du salarié ou de l'enfant du conjoint 1 semaine calendaire sans aucune"
+        },
+        {
+          "line": 895,
+          "text": "condition ancienneté"
+        },
+        {
+          "line": 896,
+          "text": "du père ou mère du salarié 3 jours sans aucune condition"
+        }
+      ]
+    },
+    {
+      "line": 897,
+      "text": "ancienneté",
+      "context": [
+        {
+          "line": 896,
+          "text": "du père ou mère du salarié 3 jours sans aucune condition"
+        },
+        {
+          "line": 897,
+          "text": "ancienneté"
+        },
+        {
+          "line": 898,
+          "text": "du beau-père ou belle-mère (1) du salarié 3 jours sans aucune condition"
+        }
+      ]
+    },
+    {
+      "line": 899,
+      "text": "ancienneté",
+      "context": [
+        {
+          "line": 898,
+          "text": "du beau-père ou belle-mère (1) du salarié 3 jours sans aucune condition"
+        },
+        {
+          "line": 899,
+          "text": "ancienneté"
+        },
+        {
+          "line": 900,
+          "text": "du frère ou sœur du salarié 3 jours sans aucune condition"
+        }
+      ]
+    },
+    {
+      "line": 901,
+      "text": "ancienneté",
+      "context": [
+        {
+          "line": 900,
+          "text": "du frère ou sœur du salarié 3 jours sans aucune condition"
+        },
+        {
+          "line": 901,
+          "text": "ancienneté"
+        },
+        {
+          "line": 902,
+          "text": "du conjoint d'un frère ou d'une sœur du salarié 1 jour sans aucune condition"
+        }
+      ]
+    },
+    {
+      "line": 903,
+      "text": "ancienneté",
+      "context": [
+        {
+          "line": 902,
+          "text": "du conjoint d'un frère ou d'une sœur du salarié 1 jour sans aucune condition"
+        },
+        {
+          "line": 903,
+          "text": "ancienneté"
+        },
+        {
+          "line": 904,
+          "text": "Handicap"
+        }
+      ]
+    },
+    {
+      "line": 910,
+      "text": "condition ancienneté",
+      "context": [
+        {
+          "line": 909,
+          "text": "1 semaine calendaire sans aucune"
+        },
+        {
+          "line": 910,
+          "text": "condition ancienneté"
+        },
+        {
+          "line": 911,
+          "text": "(1) Beau-père ou belle-mère : il s'agit du père ou de la mère du conjoint (par mariage, remariage ou Pacs), mais"
+        }
+      ]
+    },
+    {
+      "line": 1039,
+      "text": "- pour les employés ayant moins de 2 ans d'ancienneté dans l'entreprise : 1 mois ;",
+      "context": [
+        {
+          "line": 1038,
+          "text": ":"
+        },
+        {
+          "line": 1039,
+          "text": "- pour les employés ayant moins de 2 ans d'ancienneté dans l'entreprise : 1 mois ;"
+        },
+        {
+          "line": 1040,
+          "text": "- pour les employés ayant au moins 2 ans d'ancienneté dans l'entreprise et les agents de maîtrise quelle que soit leur"
+        }
+      ]
+    },
+    {
+      "line": 1040,
+      "text": "- pour les employés ayant au moins 2 ans d'ancienneté dans l'entreprise et les agents de maîtrise quelle que soit leur",
+      "context": [
+        {
+          "line": 1039,
+          "text": "- pour les employés ayant moins de 2 ans d'ancienneté dans l'entreprise : 1 mois ;"
+        },
+        {
+          "line": 1040,
+          "text": "- pour les employés ayant au moins 2 ans d'ancienneté dans l'entreprise et les agents de maîtrise quelle que soit leur"
+        },
+        {
+          "line": 1041,
+          "text": "ancienneté : 2 mois ;"
+        }
+      ]
+    },
+    {
+      "line": 1041,
+      "text": "ancienneté : 2 mois ;",
+      "context": [
+        {
+          "line": 1040,
+          "text": "- pour les employés ayant au moins 2 ans d'ancienneté dans l'entreprise et les agents de maîtrise quelle que soit leur"
+        },
+        {
+          "line": 1041,
+          "text": "ancienneté : 2 mois ;"
+        },
+        {
+          "line": 1042,
+          "text": "- pour les cadres : 3 mois quelle que soit leur ancienneté."
+        }
+      ]
+    },
+    {
+      "line": 1042,
+      "text": "- pour les cadres : 3 mois quelle que soit leur ancienneté.",
+      "context": [
+        {
+          "line": 1041,
+          "text": "ancienneté : 2 mois ;"
+        },
+        {
+          "line": 1042,
+          "text": "- pour les cadres : 3 mois quelle que soit leur ancienneté."
+        },
+        {
+          "line": 1043,
+          "text": "Les obligations réciproques du contrat de travail subsistent pendant le préavis."
+        }
+      ]
+    },
+    {
+      "line": 1086,
+      "text": "travail ou d'un accord d'entreprise, et sous réserve d'avoir au moins 10 ans d'ancienneté dans l'entreprise, soit une indemnité",
+      "context": [
+        {
+          "line": 1085,
+          "text": "A compter du 1er janvier 2013, au moment de son départ, l'intéressé reçoit, sauf dispositions plus favorables de son contrat de"
+        },
+        {
+          "line": 1086,
+          "text": "travail ou d'un accord d'entreprise, et sous réserve d'avoir au moins 10 ans d'ancienneté dans l'entreprise, soit une indemnité"
+        },
+        {
+          "line": 1087,
+          "text": "de départ en retraite égale, par année d'ancienneté dans l'entreprise, à 12,75 % de 1/12 du total des salaires bruts de ses 12"
+        }
+      ]
+    },
+    {
+      "line": 1087,
+      "text": "de départ en retraite égale, par année d'ancienneté dans l'entreprise, à 12,75 % de 1/12 du total des salaires bruts de ses 12",
+      "context": [
+        {
+          "line": 1086,
+          "text": "travail ou d'un accord d'entreprise, et sous réserve d'avoir au moins 10 ans d'ancienneté dans l'entreprise, soit une indemnité"
+        },
+        {
+          "line": 1087,
+          "text": "de départ en retraite égale, par année d'ancienneté dans l'entreprise, à 12,75 % de 1/12 du total des salaires bruts de ses 12"
+        },
+        {
+          "line": 1088,
+          "text": "derniers mois d'activité, soit 1/3 des 3 derniers mois d'activité si le calcul est plus favorable."
+        }
+      ]
+    },
+    {
+      "line": 1093,
+      "text": "La détermination de l'ancienneté et de l'assiette servant de base au calcul de l'indemnité de départ en retraite se fait de la",
+      "context": [
+        {
+          "line": 1092,
+          "text": "En vigueur étendu"
+        },
+        {
+          "line": 1093,
+          "text": "La détermination de l'ancienneté et de l'assiette servant de base au calcul de l'indemnité de départ en retraite se fait de la"
+        },
+        {
+          "line": 1094,
+          "text": "même manière que pour l'indemnité conventionnelle de licenciement."
+        }
+      ]
+    },
+    {
+      "line": 1104,
+      "text": "travail ou d'un accord d'entreprise, et sous réserve d'avoir au moins 10 ans d'ancienneté dans l'entreprise, soit une indemnité",
+      "context": [
+        {
+          "line": 1103,
+          "text": "A compter du 1er janvier 2013, au moment de son départ, l'intéressé reçoit, sauf dispositions plus favorables de son contrat de"
+        },
+        {
+          "line": 1104,
+          "text": "travail ou d'un accord d'entreprise, et sous réserve d'avoir au moins 10 ans d'ancienneté dans l'entreprise, soit une indemnité"
+        },
+        {
+          "line": 1105,
+          "text": "de départ en retraite égale, par année d'ancienneté dans l'entreprise, à 12,75 % de 1/12 du total des salaires bruts de ses 12"
+        }
+      ]
+    },
+    {
+      "line": 1105,
+      "text": "de départ en retraite égale, par année d'ancienneté dans l'entreprise, à 12,75 % de 1/12 du total des salaires bruts de ses 12",
+      "context": [
+        {
+          "line": 1104,
+          "text": "travail ou d'un accord d'entreprise, et sous réserve d'avoir au moins 10 ans d'ancienneté dans l'entreprise, soit une indemnité"
+        },
+        {
+          "line": 1105,
+          "text": "de départ en retraite égale, par année d'ancienneté dans l'entreprise, à 12,75 % de 1/12 du total des salaires bruts de ses 12"
+        },
+        {
+          "line": 1106,
+          "text": "derniers mois d'activité, soit 1/3 des 3 derniers mois d'activité si le calcul est plus favorable."
+        }
+      ]
+    },
+    {
+      "line": 1107,
+      "text": "La détermination de l'ancienneté et de l'assiette servant de base au calcul de l'indemnité de départ en retraite se fait de la",
+      "context": [
+        {
+          "line": 1106,
+          "text": "derniers mois d'activité, soit 1/3 des 3 derniers mois d'activité si le calcul est plus favorable."
+        },
+        {
+          "line": 1107,
+          "text": "La détermination de l'ancienneté et de l'assiette servant de base au calcul de l'indemnité de départ en retraite se fait de la"
+        },
+        {
+          "line": 1108,
+          "text": "même manière que pour l'indemnité conventionnelle de licenciement."
+        }
+      ]
+    },
+    {
+      "line": 1430,
+      "text": "- de la prime d'attachement à l'entreprise (cf. art. 53), ou s'il y a lieu, de la prime d'ancienneté antérieurement allouée, et",
+      "context": [
+        {
+          "line": 1429,
+          "text": "La rémunération minimale annuelle garantie inclut tout élément de salaire contractuel à l'exclusion :"
+        },
+        {
+          "line": 1430,
+          "text": "- de la prime d'attachement à l'entreprise (cf. art. 53), ou s'il y a lieu, de la prime d'ancienneté antérieurement allouée, et"
+        },
+        {
+          "line": 1431,
+          "text": "qu'elle remplace, et figée à son dernier montant au titre des avantages individuels acquis ;"
+        }
+      ]
+    },
+    {
+      "line": 1503,
+      "text": "habituellement sur 5 jours, du repos hebdomadaire de 2 jours consécutifs, de 5 semaines de congés payés (soit 25 jours ouvrés",
+      "context": [
+        {
+          "line": 1502,
+          "text": "a) Le temps de travail annuel de référence, compte tenu d'un horaire hebdomadaire moyen de 35 heures réparties"
+        },
+        {
+          "line": 1503,
+          "text": "habituellement sur 5 jours, du repos hebdomadaire de 2 jours consécutifs, de 5 semaines de congés payés (soit 25 jours ouvrés"
+        },
+        {
+          "line": 1504,
+          "text": "pour le salarié justifiant de 12 mois de présence dans l'entreprise dans la période de référence) et de 11 jours chômés (y"
+        }
+      ]
+    },
+    {
+      "line": 1504,
+      "text": "pour le salarié justifiant de 12 mois de présence dans l'entreprise dans la période de référence) et de 11 jours chômés (y",
+      "context": [
+        {
+          "line": 1503,
+          "text": "habituellement sur 5 jours, du repos hebdomadaire de 2 jours consécutifs, de 5 semaines de congés payés (soit 25 jours ouvrés"
+        },
+        {
+          "line": 1504,
+          "text": "pour le salarié justifiant de 12 mois de présence dans l'entreprise dans la période de référence) et de 11 jours chômés (y"
+        },
+        {
+          "line": 1505,
+          "text": "compris les jours fériés légaux ne coïncidant pas avec un samedi ou un dimanche), est de 1 575 heures (1 568 heures après 1 an"
+        }
+      ]
+    },
+    {
+      "line": 1505,
+      "text": "compris les jours fériés légaux ne coïncidant pas avec un samedi ou un dimanche), est de 1 575 heures (1 568 heures après 1 an",
+      "context": [
+        {
+          "line": 1504,
+          "text": "pour le salarié justifiant de 12 mois de présence dans l'entreprise dans la période de référence) et de 11 jours chômés (y"
+        },
+        {
+          "line": 1505,
+          "text": "compris les jours fériés légaux ne coïncidant pas avec un samedi ou un dimanche), est de 1 575 heures (1 568 heures après 1 an"
+        },
+        {
+          "line": 1506,
+          "text": "de présence : cf. art. 63). Ces dispositions doivent respecter les articles L. 212-1 et L. 212-7 du code du travail en matière de"
+        }
+      ]
+    },
+    {
+      "line": 1537,
+      "text": "compte tenu du nombre de jours fériés légaux coïncidant avec un samedi ou un dimanche.",
+      "context": [
+        {
+          "line": 1536,
+          "text": "Dans chaque entreprise à l'occasion de la négociation annuelle est constaté le nombre de jours chômés spécifiques de l'année"
+        },
+        {
+          "line": 1537,
+          "text": "compte tenu du nombre de jours fériés légaux coïncidant avec un samedi ou un dimanche."
+        },
+        {
+          "line": 1538,
+          "text": "Les modalités pratiques visant à aménager d'autres modes d'organisation du temps de travail sont mises en place par accords"
+        }
+      ]
+    },
+    {
+      "line": 1551,
+      "text": "\" Les conventions de forfait annuel en jours ne s'appliquent qu'aux cadres dont la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des",
+      "context": [
+        {
+          "line": 1550,
+          "text": "(1) Paragraphe étendu sous réserve qu'en application du paragraphe III de l'article L. 212-15-3 du code du travail :"
+        },
+        {
+          "line": 1551,
+          "text": "\" Les conventions de forfait annuel en jours ne s'appliquent qu'aux cadres dont la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des"
+        },
+        {
+          "line": 1552,
+          "text": "responsabilités qu'ils exercent et du degré d'autonomie dont ils disposent dans l'organisation de leur emploi du temps ;"
+        }
+      ]
+    },
+    {
+      "line": 1565,
+      "text": "Travail de nuit, dimanche et jours fériés (1)",
+      "context": [
+        {
+          "line": 1564,
+          "text": "l'organisation du temps de travail en s'appuyant sur les divers dispositifs prévus par la loi."
+        },
+        {
+          "line": 1565,
+          "text": "Travail de nuit, dimanche et jours fériés (1)"
+        },
+        {
+          "line": 1566,
+          "text": "Article 57"
+        }
+      ]
+    },
+    {
+      "line": 1569,
+      "text": "dimanche ou un jour férié. Les salariés des autres secteurs de l'entreprise seront concernés ponctuellement lors de la",
+      "context": [
+        {
+          "line": 1568,
+          "text": "conséquence les salariés des services opérationnels (assistances et services liés) peuvent être amenés à travailler la nuit, le"
+        },
+        {
+          "line": 1569,
+          "text": "dimanche ou un jour férié. Les salariés des autres secteurs de l'entreprise seront concernés ponctuellement lors de la"
+        },
+        {
+          "line": 1570,
+          "text": "survenance de surcroît d'activité présentant un caractère exceptionnel (dossiers lourds d'assistance, sinistre ou événement"
+        }
+      ]
+    },
+    {
+      "line": 1618,
+      "text": "dimanche ou un jour férié dans le cadre de son horaire normal de travail, sans aller en deçà des minima suivants :",
+      "context": [
+        {
+          "line": 1617,
+          "text": "Chaque entreprise détermine par voie d'accord les majorations de rémunération pour les salariés travaillant la nuit, le"
+        },
+        {
+          "line": 1618,
+          "text": "dimanche ou un jour férié dans le cadre de son horaire normal de travail, sans aller en deçà des minima suivants :"
+        },
+        {
+          "line": 1619,
+          "text": "- pour la période du 1er janvier 2012 au 31 décembre 2012, la majoration de nuit (entre 22 heures et 7 heures) est portée à 35 %"
+        }
+      ]
+    },
+    {
+      "line": 1622,
+      "text": "- dimanche : + 50 %,",
+      "context": [
+        {
+          "line": 1621,
+          "text": "- à compter du 1er janvier 2013 elle sera porté à 40 %."
+        },
+        {
+          "line": 1622,
+          "text": "- dimanche : + 50 %,"
+        },
+        {
+          "line": 1623,
+          "text": "- jour férié : + 60 %."
+        }
+      ]
+    },
+    {
+      "line": 1623,
+      "text": "- jour férié : + 60 %.",
+      "context": [
+        {
+          "line": 1622,
+          "text": "- dimanche : + 50 %,"
+        },
+        {
+          "line": 1623,
+          "text": "- jour férié : + 60 %."
+        },
+        {
+          "line": 1624,
+          "text": "Ces diﬀérentes majorations ne peuvent se cumuler mais le taux le plus élevé doit être appliqué lorsqu'il y a le choix entre deux"
+        }
+      ]
+    },
+    {
+      "line": 1625,
+      "text": "majorations. Ainsi la majoration d'une nuit de dimanche est égale à + 50 %.",
+      "context": [
+        {
+          "line": 1624,
+          "text": "Ces diﬀérentes majorations ne peuvent se cumuler mais le taux le plus élevé doit être appliqué lorsqu'il y a le choix entre deux"
+        },
+        {
+          "line": 1625,
+          "text": "majorations. Ainsi la majoration d'une nuit de dimanche est égale à + 50 %."
+        },
+        {
+          "line": 1626,
+          "text": "Travail du samedi"
+        }
+      ]
+    },
+    {
+      "line": 1626,
+      "text": "Travail du samedi",
+      "context": [
+        {
+          "line": 1625,
+          "text": "majorations. Ainsi la majoration d'une nuit de dimanche est égale à + 50 %."
+        },
+        {
+          "line": 1626,
+          "text": "Travail du samedi"
+        },
+        {
+          "line": 1627,
+          "text": "Article 60 BIS"
+        }
+      ]
+    },
+    {
+      "line": 1628,
+      "text": "En fonction de l'organisation du travail dans certaines entreprises, le travail du samedi pourra faire l'objet de dispositions",
+      "context": [
+        {
+          "line": 1627,
+          "text": "Article 60 BIS"
+        },
+        {
+          "line": 1628,
+          "text": "En fonction de l'organisation du travail dans certaines entreprises, le travail du samedi pourra faire l'objet de dispositions"
+        },
+        {
+          "line": 1629,
+          "text": "particulières fixées par accord d'entreprise."
+        }
+      ]
+    },
+    {
+      "line": 1639,
+      "text": "samedi ;",
+      "context": [
+        {
+          "line": 1638,
+          "text": "- 125 % pour les 8 premières heures eﬀectuées au-delà de l'horaire hebdomadaire tel que défini sur la période du lundi au"
+        },
+        {
+          "line": 1639,
+          "text": "samedi ;"
+        },
+        {
+          "line": 1640,
+          "text": "- 150 % pour les heures eﬀectuées au-delà de ces 8 premières heures et ce du lundi au samedi ;"
+        }
+      ]
+    },
+    {
+      "line": 1640,
+      "text": "- 150 % pour les heures eﬀectuées au-delà de ces 8 premières heures et ce du lundi au samedi ;",
+      "context": [
+        {
+          "line": 1639,
+          "text": "samedi ;"
+        },
+        {
+          "line": 1640,
+          "text": "- 150 % pour les heures eﬀectuées au-delà de ces 8 premières heures et ce du lundi au samedi ;"
+        },
+        {
+          "line": 1641,
+          "text": "- 150 % pour les heures eﬀectuées le dimanche et les jours fériés sachant que les dispositions applicables à la journée du 1er"
+        }
+      ]
+    },
+    {
+      "line": 1641,
+      "text": "- 150 % pour les heures eﬀectuées le dimanche et les jours fériés sachant que les dispositions applicables à la journée du 1er",
+      "context": [
+        {
+          "line": 1640,
+          "text": "- 150 % pour les heures eﬀectuées au-delà de ces 8 premières heures et ce du lundi au samedi ;"
+        },
+        {
+          "line": 1641,
+          "text": "- 150 % pour les heures eﬀectuées le dimanche et les jours fériés sachant que les dispositions applicables à la journée du 1er"
+        },
+        {
+          "line": 1642,
+          "text": "Mai sont celles prévues par la législation."
+        }
+      ]
+    },
+    {
+      "line": 1655,
+      "text": "La durée des congés payés est conforme à la législation en vigueur soit 25 jours ouvrés. Après 1 an de présence (cf. art. 27) cette",
+      "context": [
+        {
+          "line": 1654,
+          "text": "Article 63"
+        },
+        {
+          "line": 1655,
+          "text": "La durée des congés payés est conforme à la législation en vigueur soit 25 jours ouvrés. Après 1 an de présence (cf. art. 27) cette"
+        },
+        {
+          "line": 1656,
+          "text": "durée est portée à 26 jours ouvrés. Ce jour supplémentaire s'ajoute au droit acquis au titre de la première période de référence"
+        }
+      ]
+    },
+    {
+      "line": 1656,
+      "text": "durée est portée à 26 jours ouvrés. Ce jour supplémentaire s'ajoute au droit acquis au titre de la première période de référence",
+      "context": [
+        {
+          "line": 1655,
+          "text": "La durée des congés payés est conforme à la législation en vigueur soit 25 jours ouvrés. Après 1 an de présence (cf. art. 27) cette"
+        },
+        {
+          "line": 1656,
+          "text": "durée est portée à 26 jours ouvrés. Ce jour supplémentaire s'ajoute au droit acquis au titre de la première période de référence"
+        },
+        {
+          "line": 1657,
+          "text": "complète."
+        }
+      ]
+    },
+    {
+      "line": 1887,
+      "text": "La prévoyance consiste à prévenir les aléas de la vie et couvre, à cette fin, deux grands domaines de risques liés à la personne :",
+      "context": [
+        {
+          "line": 1886,
+          "text": "Définition de la prévoyance"
+        },
+        {
+          "line": 1887,
+          "text": "La prévoyance consiste à prévenir les aléas de la vie et couvre, à cette fin, deux grands domaines de risques liés à la personne :"
+        },
+        {
+          "line": 1888,
+          "text": "– les risques décès, incapacité, invalidité, et dépendance interrompant ou suspendant totalement l'activité professionnelle, et"
+        }
+      ]
+    },
+    {
+      "line": 1894,
+      "text": "dans le “ panier de soins minimum de la branche ” précisées dans l'avenant et ce sans condition d'ancienneté.",
+      "context": [
+        {
+          "line": 1893,
+          "text": "Les entreprises souscrivent un ou plusieurs régimes de prévoyance et de frais de santé oﬀrant au minimum, les garanties fixées"
+        },
+        {
+          "line": 1894,
+          "text": "dans le “ panier de soins minimum de la branche ” précisées dans l'avenant et ce sans condition d'ancienneté."
+        },
+        {
+          "line": 1895,
+          "text": "Les présentes dispositions représentent les garanties minimales dont doivent bénéficier les salariés, les entreprises pouvant"
+        }
+      ]
+    },
+    {
+      "line": 1920,
+      "text": "même employeur, appréciés en mois entiers le cas échéant arrondis au nombre supérieur, dans la limite de 12 mois de",
+      "context": [
+        {
+          "line": 1919,
+          "text": "– la durée de la portabilité est égale à la durée du dernier contrat ou des derniers contrats lorsqu'ils sont consécutifs chez le"
+        },
+        {
+          "line": 1920,
+          "text": "même employeur, appréciés en mois entiers le cas échéant arrondis au nombre supérieur, dans la limite de 12 mois de"
+        },
+        {
+          "line": 1921,
+          "text": "couverture ;"
+        }
+      ]
+    },
+    {
+      "line": 1934,
+      "text": "La prévoyance consiste à prévenir les aléas de la vie et couvre, à cette fin, deux grands domaines de risques liés à la personne :",
+      "context": [
+        {
+          "line": 1933,
+          "text": "Définition de la prévoyance"
+        },
+        {
+          "line": 1934,
+          "text": "La prévoyance consiste à prévenir les aléas de la vie et couvre, à cette fin, deux grands domaines de risques liés à la personne :"
+        },
+        {
+          "line": 1935,
+          "text": "– les risques décès, incapacité, invalidité, et dépendance interrompant ou suspendant totalement l'activité professionnelle, et"
+        }
+      ]
+    },
+    {
+      "line": 1941,
+      "text": "dans le “ panier de soins minimum de la branche ” précisées dans l'avenant et ce sans condition d'ancienneté.",
+      "context": [
+        {
+          "line": 1940,
+          "text": "Les entreprises souscrivent un ou plusieurs régimes de prévoyance et de frais de santé oﬀrant au minimum, les garanties fixées"
+        },
+        {
+          "line": 1941,
+          "text": "dans le “ panier de soins minimum de la branche ” précisées dans l'avenant et ce sans condition d'ancienneté."
+        },
+        {
+          "line": 1942,
+          "text": "Les présentes dispositions représentent les garanties minimales dont doivent bénéficier les salariés, les entreprises pouvant"
+        }
+      ]
+    },
+    {
+      "line": 1967,
+      "text": "même employeur, appréciés en mois entiers le cas échéant arrondis au nombre supérieur, dans la limite de 12 mois de",
+      "context": [
+        {
+          "line": 1966,
+          "text": "– la durée de la portabilité est égale à la durée du dernier contrat ou des derniers contrats lorsqu'ils sont consécutifs chez le"
+        },
+        {
+          "line": 1967,
+          "text": "même employeur, appréciés en mois entiers le cas échéant arrondis au nombre supérieur, dans la limite de 12 mois de"
+        },
+        {
+          "line": 1968,
+          "text": "couverture ;"
+        }
+      ]
+    }
+  ]
+}
