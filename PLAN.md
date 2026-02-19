@@ -37,7 +37,7 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 - [x] 5. Gel du RulePack. (preuve: `SOURCES/rulepack.v1.freeze.json`)
 - [x] 6. Rédaction des tests du moteur (incluant cas limites obligatoires). (artefact: `__tests__/ruleengine.contract.test.ts`)
 - [x] 7. Implémentation du RuleEngine (après gel). (artefacts: `src/domain/ruleEngine.ts`, `src/domain/types.ts`)
-- [ ] 8. Implémentation des UseCases Application.
+- [x] 8. Implémentation des UseCases Application. (artefact: `src/application/simulateLeaveUseCase.ts`)
 - [ ] 9. Implémentation UI des 9 écrans contractuels.
 - [ ] 10. Mise en place de la persistance SQLite.
 - [ ] 11. Implémentation de l’optimisation annuelle (Premium).
