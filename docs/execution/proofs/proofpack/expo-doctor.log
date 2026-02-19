@@ -1,0 +1,61 @@
+2026-02-19T08:31:53.014Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env does not exist, skipping this env file
+2026-02-19T08:31:53.016Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development does not exist, skipping this env file
+2026-02-19T08:31:53.016Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.local does not exist, skipping this env file
+2026-02-19T08:31:53.017Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development.local does not exist, skipping this env file
+Running 17 checks on your project...
+2026-02-19T08:31:53.517Z expo:doctor:dependencies:bundledNativeModules Fetching bundled native modules from the server...
+16/17 checks passed. 1 checks failed. Possible issues detected:
+Use the --verbose flag to see more details about passed checks.
+
+✖ Check that packages match versions required by installed Expo SDK
+2026-02-19T08:31:57.520Z expo:utils:variadic Parsed arguments (variadic: [], flags: { '--check': true, '--json': true }, extra: [])
+2026-02-19T08:31:57.852Z expo:telemetry Recording 1 event(s)
+2026-02-19T08:31:57.873Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env does not exist, skipping this env file
+2026-02-19T08:31:57.874Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development does not exist, skipping this env file
+2026-02-19T08:31:57.874Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.local does not exist, skipping this env file
+2026-02-19T08:31:57.874Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development.local does not exist, skipping this env file
+2026-02-19T08:31:58.363Z expo:doctor:dependencies:bundledNativeModules Fetching bundled native modules from the server...
+2026-02-19T08:31:58.650Z expo:doctor:dependencies:validate Checking dependencies for 54.0.0: {
+  expo: '~54.0.33',
+  'expo-sqlite': '~16.0.10',
+  'expo-status-bar': '~3.0.9',
+  react: '19.1.0',
+  'react-native': '0.81.5',
+  '@types/jest': '29.5.14',
+  '@types/react': '~19.1.0',
+  jest: '^29.7.0',
+  'jest-expo': '^54.0.17',
+  typescript: '^5.9.3'
+}
+2026-02-19T08:31:58.651Z expo:doctor:dependencies:validate Comparing known versions: [
+  'expo',
+  'expo-sqlite',
+  'expo-status-bar',
+  'react',
+  'react-native',
+  '@types/jest',
+  '@types/react',
+  'jest',
+  'jest-expo',
+  'typescript'
+]
+2026-02-19T08:31:58.651Z expo:doctor:dependencies:validate Skipping packages that cannot be versioned automatically: []
+2026-02-19T08:31:58.668Z expo:doctor:dependencies:validate Package versions: {
+  expo: '54.0.33',
+  'expo-sqlite': '16.0.10',
+  'expo-status-bar': '3.0.9',
+  react: '19.1.0',
+  'react-native': '0.81.5',
+  '@types/jest': '29.5.14',
+  '@types/react': '19.1.17',
+  jest: '29.7.0',
+  'jest-expo': '54.0.17',
+  typescript: '5.9.3'
+}
+2026-02-19T08:31:58.678Z expo:doctor:dependencies:validate Incorrect dependencies: []
+2026-02-19T08:31:58.807Z expo:telemetry:client:detached Detached flush started
+Advice:
+Use 'npx expo install --check' to review and upgrade your dependencies.
+To ignore specific packages, add them to "expo.install.exclude" in package.json. Learn more: https://expo.fyi/dependency-validation
+
+1 check failed, indicating possible issues with the project.

@@ -1,0 +1,46 @@
+2026-02-19T08:31:03.280Z expo:utils:variadic Parsed arguments (variadic: [], flags: { '--check': true }, extra: [])
+2026-02-19T08:31:03.463Z expo:telemetry Recording 1 event(s)
+2026-02-19T08:31:03.484Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env does not exist, skipping this env file
+2026-02-19T08:31:03.485Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development does not exist, skipping this env file
+2026-02-19T08:31:03.485Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.local does not exist, skipping this env file
+2026-02-19T08:31:03.485Z expo:env C:\Users\Harib\CascadeProjects\congemaxv3\.env.development.local does not exist, skipping this env file
+2026-02-19T08:31:03.798Z expo:doctor:dependencies:bundledNativeModules Fetching bundled native modules from the server...
+2026-02-19T08:31:04.300Z expo:doctor:dependencies:validate Checking dependencies for 54.0.0: {
+  expo: '~54.0.33',
+  'expo-sqlite': '~16.0.10',
+  'expo-status-bar': '~3.0.9',
+  react: '19.1.0',
+  'react-native': '0.81.5',
+  '@types/jest': '29.5.14',
+  '@types/react': '~19.1.0',
+  jest: '^29.7.0',
+  'jest-expo': '^54.0.17',
+  typescript: '^5.9.3'
+}
+2026-02-19T08:31:04.300Z expo:doctor:dependencies:validate Comparing known versions: [
+  'expo',
+  'expo-sqlite',
+  'expo-status-bar',
+  'react',
+  'react-native',
+  '@types/jest',
+  '@types/react',
+  'jest',
+  'jest-expo',
+  'typescript'
+]
+2026-02-19T08:31:04.300Z expo:doctor:dependencies:validate Skipping packages that cannot be versioned automatically: []
+2026-02-19T08:31:04.308Z expo:doctor:dependencies:validate Package versions: {
+  expo: '54.0.33',
+  'expo-sqlite': '16.0.10',
+  'expo-status-bar': '3.0.9',
+  react: '19.1.0',
+  'react-native': '0.81.5',
+  '@types/jest': '29.5.14',
+  '@types/react': '19.1.17',
+  jest: '29.7.0',
+  'jest-expo': '54.0.17',
+  typescript: '5.9.3'
+}
+2026-02-19T08:31:04.316Z expo:doctor:dependencies:validate Incorrect dependencies: []
+Dependencies are up to date

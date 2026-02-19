@@ -1,0 +1,17 @@
+
+> congemaxv3@1.0.0 test
+> jest --runInBand
+
+PASS __tests__/rulepack.freeze.integrity.test.ts
+PASS __tests__/optimizeAnnualPremiumUseCase.test.ts
+PASS __tests__/smoke.test.ts
+PASS __tests__/simulateLeaveUseCase.test.ts
+PASS __tests__/ruleengine.contract.test.ts
+PASS __tests__/leaveSimulationRowMapper.test.ts
+PASS __tests__/ruleengine.implementation.test.ts
+
+Test Suites: 7 passed, 7 total
+Tests:       7 todo, 12 passed, 19 total
+Snapshots:   0 total
+Time:        2.737 s, estimated 4 s
+Ran all test suites.

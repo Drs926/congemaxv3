@@ -11,3 +11,9 @@
 - Calculs deterministes obligatoires pour toute simulation.
 - Commentaire IA en lecture seule, sans impact sur les metriques.
 - Changement de convention active: reset scenarios et reset resultats.
+- Gate Premium: controle applique au UseCase d'optimisation annuelle (pas de gate navigation tant que la navigation n'est pas contractee).
+
+## Deviation active
+- Voir `docs/governance/DEVIATIONS.md`:
+  - DEV-001 (expo-doctor incoherent)
+  - DEV-002 (lint absent)

@@ -1,0 +1,6 @@
+npm test	0	docs/execution/proofs/proofpack/npm-test.log
+npx tsc --noEmit	0	docs/execution/proofs/proofpack/tsc-noemit.log
+npx expo install --check	0	docs/execution/proofs/proofpack/expo-install-check.log
+npx expo-doctor	1	docs/execution/proofs/proofpack/expo-doctor.log
+npm run lint	1	docs/execution/proofs/proofpack/npm-run-lint.log
+npm run	0	docs/execution/proofs/proofpack/npm-run.log

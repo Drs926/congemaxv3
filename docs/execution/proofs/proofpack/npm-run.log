@@ -1,0 +1,12 @@
+Lifecycle scripts included in congemaxv3@1.0.0:
+  start
+    expo start
+  test
+    jest --runInBand
+available via `npm run-script`:
+  android
+    expo start --android
+  ios
+    expo start --ios
+  web
+    expo start --web
