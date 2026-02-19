@@ -29,6 +29,20 @@ Découper le travail en tâches atomiques, dépendances et critères de done, av
 11. Implémentation de l’optimisation annuelle (Premium).
 12. Exécution du Proof Pack et vérification conformité finale.
 
+**Suivi d'exécution**
+- [x] 1. Réception du PDF de convention. (source: `SOURCES/convention des assistances.pdf`)
+- [ ] 2. Extraction structurée des règles depuis le PDF.
+- [ ] 3. Formalisation des règles en RulePack versionné.
+- [ ] 4. Validation humaine du RulePack.
+- [ ] 5. Gel du RulePack.
+- [ ] 6. Rédaction des tests du moteur (incluant cas limites obligatoires).
+- [ ] 7. Implémentation du RuleEngine (après gel).
+- [ ] 8. Implémentation des UseCases Application.
+- [ ] 9. Implémentation UI des 9 écrans contractuels.
+- [ ] 10. Mise en place de la persistance SQLite.
+- [ ] 11. Implémentation de l’optimisation annuelle (Premium).
+- [ ] 12. Exécution du Proof Pack et vérification conformité finale.
+
 **Dépendances**
 - 2 dépend de 1.
 - 3 dépend de 2.
