@@ -1,0 +1,58 @@
+# RAIL_MACHINE.yml
+# Machine à états d’exécution contractuelle — CongéMax
+
+machine:
+  name: congemax_exec_rail
+  version: "1.0"
+  phases:
+    - name: INIT
+      entry_conditions:
+        - "Application start"
+      exit_conditions:
+        - "Prechecks completed"
+      proofs_required:
+        - "None"
+      anti_loop:
+        - "No re-entry without app restart"
+
+    - name: PRECHECKS
+      entry_conditions:
+        - "INIT completed"
+      exit_conditions:
+        - "All required artifacts present and RulePack frozen"
+      proofs_required:
+        - "PDF convention received"
+        - "Extraction validated"
+        - "RulePack written"
+        - "Tests written"
+        - "Human validation"
+        - "RulePack frozen"
+      anti_loop:
+        - "Fail once -> go to BLOCKED"
+
+    - name: READY
+      entry_conditions:
+        - "PRECHECKS passed"
+      exit_conditions:
+        - "App terminated"
+      proofs_required:
+        - "None"
+      anti_loop:
+        - "No internal loop constraints defined"
+
+    - name: BLOCKED
+      entry_conditions:
+        - "Any PRECHECKS proof missing"
+        - "Convention PDF ambiguous, contradictory, or incomplete"
+        - "RulePack not frozen"
+      exit_conditions:
+        - "All PRECHECKS proofs satisfied"
+      proofs_required:
+        - "None"
+      anti_loop:
+        - "Block until PRECHECKS satisfied"
+
+  rules:
+    - "Block if RulePack not frozen"
+    - "Block if convention PDF ambiguous, contradictory, or incomplete"
+    - "No implementation before RulePack frozen"
