@@ -4,25 +4,27 @@ Date: 2026-02-19
 
 ## Contexte
 - Tag de gel reference: congemaxv3-proofpass-20260219
-- HEAD courant: a9936038ceb1c23e79be9fb9f62b79ce08040b40
+- HEAD courant (LOT-B): e806a66
 
 ## Resultats commandes
 - `npx expo export --platform web --clear` => PASS
-  - log: `docs/execution/proofs/product/expo-export-web.log`
+  - preuve session: export web PASS apres wiring USABLE_FLOW
 - `npx jest --runInBand` => PASS
-  - log: `docs/execution/proofs/product/jest.log`
+  - preuve session: 9 suites PASS
 - `npx tsc --noEmit` => PASS
-  - log: `docs/execution/proofs/product/tsc.log`
-- Correctif build applique (strictement technique):
-  - `npx expo install react-dom react-native-web` => PASS
-  - log: `docs/execution/proofs/product/expo-install-web-deps.log`
+  - preuve session: typecheck PASS
 
 ## Ce qui est prouve
 - L'app bundle/export web sans erreur (`expo export web`).
-- Les smoke tests automatiques passent (Jest + TypeScript).
-- Un protocole E2E reproductible est fourni pour execution humaine guidee:
-  - `docs/execution/PRODUCT_E2E_PROTOCOL.md`
-- Le parcours demande couvre onboarding -> simulation -> resultats -> premium gate (protocole).
+- Les tests automatiques passent (Jest + TypeScript).
+- USABLE_FLOW PASS:
+  - `App.tsx` rend `AppNavigator` (plus de Splash bloque).
+  - Routeur Splash decide `OnboardingProfil` ou `TableauDeBord`.
+  - Navigation 8 ecrans active via `src/ui/navigation/AppNavigator.tsx`.
+  - Onboarding persiste (`settingsStore`) et bypass au relaunch.
+  - Simulation branchee (`simulateLeaveUseCase` + `persistSimulationUseCase`) puis affichage `Resultats`.
+  - Premium gate UX actif en non-premium avec message FR base sur `premium_required`.
+- Protocole E2E aligne sur ce flux: `docs/execution/PRODUCT_E2E_PROTOCOL.md`.
 
 ## Ce qui n'est pas prouve automatiquement
 - L'execution reelle des scenarios E2E sur emulateur/device n'a pas ete automatisee dans ce lot.

@@ -12,18 +12,19 @@
 3. Ouvrir l'app sur emulateur Android ou sur device via QR code.
 
 ## SCN-E2E-01 Onboarding profil + convention
-1. Demarrer l'app et atteindre le flux onboarding.
-2. Renseigner les informations de profil (prenom, nom, email, timezone, debut de semaine).
-3. Aller a l'etape convention et selectionner la convention active.
+1. Demarrer l'app: Splash doit router automatiquement vers `OnboardingProfil` si onboarding incomplet.
+2. Renseigner `Solde conges` et `Solde RTT`, puis cliquer `Continuer`.
+3. Sur `OnboardingConvention`, verifier la convention unique (IDCC 1801) puis valider.
 4. Valider l'onboarding.
 Preuve attendue:
-- Ecran onboarding profil complete visible.
-- Ecran onboarding convention visible avec convention active.
-- Traces UI en francais uniquement.
+- Navigation effective `Splash -> OnboardingProfil -> OnboardingConvention -> TableauDeBord`.
+- Aucun blocage sur Splash.
+- UI en francais.
 
 ## SCN-E2E-02 Simulation config -> resultat deterministe
-1. Depuis l'ecran simulation, saisir une configuration de periode.
-2. Lancer la simulation.
+1. Depuis `TableauDeBord`, ouvrir `Configurer une simulation`.
+2. Saisir `Date de debut` et `Date de fin` (format AAAA-MM-JJ).
+3. Lancer la simulation.
 3. Rejouer exactement la meme simulation une seconde fois.
 4. Comparer les resultats affiches.
 Preuve attendue:
@@ -39,22 +40,23 @@ Preuve attendue:
 - Aucun input IA, aucun bouton IA de calcul.
 
 ## SCN-E2E-04 Premium gate: tentative optimisation -> erreur premium_required (preuve UI/log)
-1. Se placer en contexte non premium.
-2. Tenter de lancer l'optimisation annuelle.
+1. Ouvrir `Parametres` puis desactiver Premium.
+2. Tenter `Tester optimisation annuelle`.
 3. Observer le comportement retourne par le UseCase.
 4. Capturer la preuve d'erreur.
 Preuve attendue:
-- Refus explicite de l'operation premium.
-- Message/trace contenant `premium_required` (UI ou log).
+- Refus explicite de l'operation premium, sans crash.
+- Message FR de gate premium (declenche par `premium_required`).
 
 ## Collecte preuves
 - Screenshots a capturer:
   - Splash initial.
-  - Onboarding profil complete.
+  - Onboarding profil (champs soldes).
   - Onboarding convention.
+  - Tableau de bord.
   - Simulation config.
   - Resultats (avec bloc Commentaire IA).
-  - Echec premium gate (`premium_required`).
+  - Echec premium gate (message FR).
 - Logs Metro a copier/coller:
   - Terminal ou `npx expo start --clear` est lance.
   - Copier les lignes autour des actions de simulation et de tentative premium.

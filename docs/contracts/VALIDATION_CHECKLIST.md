@@ -7,7 +7,7 @@
 - [ ] `npx expo-doctor` PASS ou deviation active referencee
 - [ ] `npm run lint` PASS ou deviation active referencee
 - [ ] Integrite RulePack gele (`verifyRulepackIntegrity`) PASS
-- [ ] USABLE_FLOW PASS
+- [x] USABLE_FLOW PASS
   - Definition courte: flux utilisable onboarding -> simulation -> resultats -> premium gate, sans blocage Splash.
   - PASS: onboarding atteignable/validable, simulation lancable, resultats affiches, `premium_required` prouve en non-premium.
 
