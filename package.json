@@ -1,6 +1,24 @@
 {
+  "name": "congemaxv3",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest"
+  },
+  "dependencies": {
+    "expo": "~54.0.33",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
   "devDependencies": {
-    "@types/jest": "^30.0.0",
+    "@types/jest": "29.5.14",
+    "@types/react": "~19.1.0",
     "jest": "^29.7.0",
     "jest-expo": "^54.0.17",
     "typescript": "^5.9.3"
